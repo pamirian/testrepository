@@ -1,0 +1,9 @@
+1.    Implement the method that takes three numbers and returns minimum of they. 
+      Example: getMinimum(5,6,1) ->1
+2.    Implement the program that takes the integer from Scanner – the number of day of week.
+      Implement the method that takes this integer and returns the String the day of week. 
+      Example: getDayOfWeek(1) -> Monday;
+3.    Your program should take three integers: day, month and year (use Scanner) and check if this date is valid.
+      Tip: use the method isLeapYear we wrote in class. 
+      Example: checkDate(10,1,2002) -> true checkDate(10,13,2002) -> false
+
